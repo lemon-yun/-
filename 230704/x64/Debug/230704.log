@@ -1,0 +1,19 @@
+﻿  20230704_3.c
+G:\code\c\project\230704\20230704_3.c(10,1): warning C4010: 单行注释包含行继续符
+G:\code\c\project\230704\20230704_3.c(14,1): warning C4010: 单行注释包含行继续符
+G:\code\c\project\230704\20230704_3.c(15,1): warning C4010: 单行注释包含行继续符
+G:\code\c\project\230704\20230704_3.c(16,1): warning C4010: 单行注释包含行继续符
+G:\code\c\project\230704\20230704_3.c(17,1): warning C4010: 单行注释包含行继续符
+G:\code\c\project\230704\20230704_3.c(19,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+G:\code\c\project\230704\20230704_3.c(19,9): message : 请考虑在格式字符串中使用“%zd”
+G:\code\c\project\230704\20230704_3.c(20,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+G:\code\c\project\230704\20230704_3.c(20,9): message : 请考虑在格式字符串中使用“%zd”
+G:\code\c\project\230704\20230704_3.c(30,1): warning C4010: 单行注释包含行继续符
+G:\code\c\project\230704\20230704_3.c(31,1): warning C4010: 单行注释包含行继续符
+G:\code\c\project\230704\20230704_3.c(32,1): warning C4010: 单行注释包含行继续符
+  20230704_4.c
+G:\code\c\project\230704\20230704_4.c(12,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+G:\code\c\project\230704\20230704_4.c(12,9): message : 请考虑在格式字符串中使用“%zd”
+G:\code\c\project\230704\20230704_4.c(10,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  230704.vcxproj -> G:\code\c\project\230704\x64\Debug\230704.exe
